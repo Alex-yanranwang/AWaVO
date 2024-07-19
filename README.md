@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/cover.png">
+  <img src="docs/adaptive_sliding.jpg">
 </p>
 
 ## TODOs
@@ -35,10 +35,32 @@
 
 ## Abstract
 <p align="justify">Reinforcement learning can provide effective reasoning for sequential decision-making problems with variable dynamics. Such reasoning in practical implementation, however, poses a persistent challenge in interpreting the reward function and the corresponding optimal policy. Consequently, representing sequential decision-making problems as probabilistic inference can have considerable value, as, in principle, the inference offers diverse and powerful mathematical tools to infer the stochastic dynamics whilst suggesting a probabilistic interpretation of policy optimization. In this study, we propose a novel Adaptive Wasserstein Variational Optimization, namely AWaVO, to tackle these interpretability challenges. Our approach uses formal methods to achieve the interpretability for convergence guarantee, training transparency, and intrinsic decision-interpretation. To demonstrate its practicality, we showcase guaranteed interpretability with a global convergence rate $\Theta(1/\sqrt{T})$ in simulation and in practical quadrotor tasks. In comparison with state-of-the-art benchmarks, including TRPO-IPO, PCPO, and CRPO, we empirically verify that AWaVO offers a reasonable trade-off between high performance and sufficient interpretability.</p>
-<p align="center">
-  <img src="assets/system_overview2.png">
-</p>
+
+## Practical Implementation on a real quadrotor
+<div class="hero-body">
+  <video id="shortDemo" autoplay muted loop height="100%">
+    <source src="docs/shortDemo.mp4" type="video/mp4">
+  </video>
+  <br><br><br>
+</div>
 
 
 ## BibTeX
+<div class="container is-max-desktop content">
+<pre><code>@InProceedings{wang24probabilistic,
+    title = {Probabilistic Constrained Reinforcement Learning with Formal Interpretability},
+    author = {Wang, Yanran and Qian, Qiuchen and Boyle, David},
+    booktitle = {Proceedings of the 41st International Conference on Machine Learning},
+    pages = {51303--51327},
+    year = {2024},
+    volume = {235},
+    series = {Proceedings of Machine Learning Research},
+    publisher = {PMLR}
+  }</code></pre>
+</div>
 If you find this repository helpful, please cite our paper and give us a star!
+
+## Acknowledgements
+<div class="container is-max-desktop content">
+    This work was partially supported by NSF-UKRI [grant number NE/T011467/1]; and the Engineering and Physical Sciences Research Council [grant number EP/X040518/1].
+  </div>
