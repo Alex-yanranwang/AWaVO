@@ -29,7 +29,6 @@
 </p>
 
 ## TODOs
-- [ ] 📣 ORPO-DR and WVI code (in C++&Python) will be soon under the folder [AWaVO/](AWaVO/).
 - [ ] 📣 Toturial of the practical quadrotor implementation will be released soon!
 
 
