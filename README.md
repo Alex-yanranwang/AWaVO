@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <sup></sup>Systems and Algorithms Lab, Imperial College London, United Kingdom.&emsp;&emsp;&emsp;
+    Systems and Algorithms Lab, Imperial College London, United Kingdom.
 </p>
 
 <p align="center">
