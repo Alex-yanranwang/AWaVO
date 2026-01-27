@@ -29,7 +29,7 @@
 </p>
 
 ## TODOs
-- [ ] 📣 Toturial of the practical quadrotor implementation will be released soon!
+- [ ] 📣 Tutorial (including the code and all the detailed configuration) of a real quadrotor has been released: [A-Framework-for-Robot-Autonomy](<https://github.com/Alex-yanranwang/A-Framework-for-Robot-Autonomy.git>)
 
 
 ## Abstract
