@@ -28,8 +28,9 @@
   <img src="docs/adaptive_sliding.jpg">
 </p>
 
-## Simulation & Practical Implementation on a real-world drone
-- [ ] 📣 Tutorial (including the code and all the detailed configuration) of a real quadrotor has been released: [A-Framework-for-Robot-Autonomy](<https://github.com/Alex-yanranwang/A-Framework-for-Robot-Autonomy.git>)
+## Simulation
+- [ ] 📣 A runnable PyTorch implementation of AWaVO supporting both discrete-action Gymnasium tasks (CartPole-v1, Acrobot-v1) and continuous-action GUARD benchmarks (Walker, Drone).
+The implementation is available in the `awavo-imple` directory of this `awavo-imple` branch: https://github.com/Alex-yanranwang/AWaVO/tree/awavo-imple/awavo
 
 
 ## Abstract
