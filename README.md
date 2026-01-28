@@ -28,7 +28,7 @@
   <img src="docs/adaptive_sliding.jpg">
 </p>
 
-## TODOs
+## Simulation & Practical Implementation on a real-world drone
 - [ ] 📣 Tutorial (including the code and all the detailed configuration) of a real quadrotor has been released: [A-Framework-for-Robot-Autonomy](<https://github.com/Alex-yanranwang/A-Framework-for-Robot-Autonomy.git>)
 
 
