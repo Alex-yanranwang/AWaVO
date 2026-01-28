@@ -1,6 +1,6 @@
 # AWaVO (arXiv:2307.07084)
 
-A small, runnable PyTorch implementation of **AWaVO** (Adaptive Wasserstein Variational Optimization) for **safe RL / CMDP** settings.
+A runnable PyTorch implementation of **AWaVO** (Adaptive Wasserstein Variational Optimization) for **safe RL / CMDP** settings.
 
 **Author:** Yanran Wang
 
